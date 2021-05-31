@@ -20,4 +20,4 @@ This project displays my skills with Google maps & the ability to do web & mobil
 
 ***Main Page***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/main/img/veganRestaurant.png" alt="this is a screen shot of the main page of the vegan restaurant. It shows of the locantion on Google Maps & has menu items.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/vegan-restaurant/main/img/veganRestaurant.jpg" alt="this is a screen shot of the main page of the vegan restaurant. It shows of the locantion on Google Maps & has menu items.">
